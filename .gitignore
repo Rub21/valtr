@@ -1,0 +1,4 @@
+*.pbf
+*.geojson
+test.json
+node_modules/

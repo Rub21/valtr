@@ -1,0 +1,25 @@
+{
+  "name": "valtr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rub21/valtr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rub21/valtr/issues"
+  },
+  "homepage": "https://github.com/Rub21/valtr#readme",
+  "dependencies": {
+    "@turf/turf": "^4.6.1",
+    "buffered-writer": "^0.2.3",
+    "osmium": "^0.5.4",
+    "underscore": "^1.8.3"
+  }
+}
